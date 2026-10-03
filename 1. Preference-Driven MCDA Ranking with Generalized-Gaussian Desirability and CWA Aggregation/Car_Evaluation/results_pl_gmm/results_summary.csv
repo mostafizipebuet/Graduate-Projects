@@ -1,0 +1,2 @@
+dataset,n_instances,n_criteria,n_iters,n_pref_pairs,preprocess,mean_accuracy,std_accuracy
+Car Evaluation(UCI)->6-ordinal-features,1728,6,100,600,z-score standardization (Eq. 18),0.8958228645555322,0.009681333217988856

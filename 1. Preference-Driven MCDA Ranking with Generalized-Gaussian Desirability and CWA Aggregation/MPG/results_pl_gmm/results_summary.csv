@@ -1,0 +1,2 @@
+dataset,n_instances,n_criteria,n_iters,n_pref_pairs,preprocess,mean_accuracy,std_accuracy
+MPG(UCI)->6-ordinal,392,7,100,600,z-score standardization (Eq. 18),0.8191368606728612,0.01417970385271389
