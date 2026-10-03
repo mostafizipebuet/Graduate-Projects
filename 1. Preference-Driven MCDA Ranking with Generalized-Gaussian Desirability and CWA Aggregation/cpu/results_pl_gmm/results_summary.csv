@@ -1,0 +1,2 @@
+dataset,n_instances,n_criteria,n_iters,n_pref_pairs,preprocess,mean_accuracy,std_accuracy
+Computer Hardware(UCI)->6-ordinal,209,9,100,600,z-score standardization (Eq. 18),0.8508051050306173,0.029176530283066954
